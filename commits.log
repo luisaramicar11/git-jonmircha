@@ -1,0 +1,98 @@
+commit 8d47fd3905a37543adc76fa802d66a715614ec7a
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 14:25:03 2023 -0500
+
+    Agregando dos parrafos
+
+commit cca6742d9b038daf19186b6eb8f845fb2bb6dcd1
+Merge: f767be3 032e426
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 14:22:18 2023 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit f767be3caba609926e119291caf4a9ea7949c426
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 14:07:37 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 032e426138cd0a452ec1238e7a849842cbd159cb
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 14:07:37 2023 -0500
+
+    Agregando estaciones del año
+
+commit 43e30b635f65925eb800ee7e68b3135f765e91bc
+Merge: e639e7f 1b82bc3
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 08:42:56 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 1b82bc31c01b08bb9461e4273d8055305fb6cada
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 08:36:25 2023 -0500
+
+    Agregando index.js al index.html
+
+commit e639e7f8e2ff33bb6a8c2bdbcab89e40cd2c579f
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 08:33:48 2023 -0500
+
+    Agregando style.css al index.html
+
+commit c5f15b243fd38511f02bb1a9da9006aed3062f75
+Merge: f7b5bd7 b5acd75
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 08:24:50 2023 -0500
+
+    Merge branch 'js'
+
+commit b5acd75b9a324cd7c5f7cdad4959cad8d6f6797d
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 08:19:44 2023 -0500
+
+    Creando index.js
+
+commit f7b5bd7b3a9410b33afd37405185e0f321191c43
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 08:14:47 2023 -0500
+
+    Creando style.css
+
+commit 91e927f5fcb925977758b098fa9b99662f851b58
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 08:10:15 2023 -0500
+
+    Creando index.html
+
+commit a4ad9b14ba6a62df7824d85a61a99247313f6d02
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 07:53:05 2023 -0500
+
+    Ignorando archivos .exe
+
+commit e708fc062e149b20bd2b664f265d223b20a67ffc
+Author: luisaramicar11 <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 07:13:56 2023 -0500
+
+    Creando licencia del repositorio
+
+commit ccdbbcd6f6d45acf795ad59d748753dd55c6d190
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 07:08:19 2023 -0500
+
+    Agregando mas contenido al README
+
+commit 3f439c9d3a0a5e5ddafed38ae9ad613bab975966
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 06:48:42 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit a8f78025fd9a77ea3a6eecb477edb609d5557667
+Author: Luisa Ramirez C <luisaf.ramirez.cardona11@gmail.com>
+Date:   Tue Jan 24 06:43:16 2023 -0500
+
+    Primer commit
